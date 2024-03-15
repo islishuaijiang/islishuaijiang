@@ -1,3 +1,3 @@
 - 👋 Hi, I’m lishuaijiang
 - 🌱 I’m currently learning Python, Linux
-- 📫 mailto:islishuaijiang@gmail.com
+- 📫 [islishuaijiang@gmail.com](mailto:islishuaijiang@gmail.com)
